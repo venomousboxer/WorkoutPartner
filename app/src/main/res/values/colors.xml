@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mb_green">#ff99cc00</color>
+    <color name="mb_green_dark">#ff6d9b00</color>
+    <color name="red_1">#ff0000</color>
+    <color name="red_2">#ff5555</color>
+    <color name="red_3">#ffaaaa</color>
+    <color name="white">#ffffff</color>
+</resources>
